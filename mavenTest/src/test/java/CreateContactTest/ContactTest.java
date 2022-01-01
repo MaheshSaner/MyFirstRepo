@@ -1,10 +1,19 @@
 package CreateContactTest;
 
+import org.testng.annotations.Test;
+
 public class ContactTest {
 
-	public static void main(String[] args) {
-
+	@Test
+public void contact()
+{
 		System.out.println("Contact Created");
+		new ContactTest();
+	}
+	
+	@Test
+	public void updateContact() {
+		System.out.println("contact updated");
 	}
 
 }

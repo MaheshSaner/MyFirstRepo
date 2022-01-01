@@ -11,17 +11,18 @@ public class CreateContactTest {
 	@Test
 	public void createContactTest() {
 		WebDriver driver;
-		
-//		String URL =System.getProperty("url");
-//		String BROWSER=System.getProperty("browser");
-//		if(BROWSER.equalsIgnoreCase("chrome")) {
-//			driver = new ChromeDriver();
-//			driver.get(URL);
-//		}
-//		else if(BROWSER.equalsIgnoreCase("firefox")) {
-//			driver = new FirefoxDriver();
-//			driver.get(URL);
-//		}
+	/*	
+	String URL =System.getProperty("url");
+	String BROWSER=System.getProperty("browser");
+	if(BROWSER.equalsIgnoreCase("chrome")) {
+			driver = new ChromeDriver();
+			driver.get(URL);
+	}
+	else if(BROWSER.equalsIgnoreCase("firefox")) {
+			driver = new FirefoxDriver();
+			driver.get(URL);
+	}
+	*/
 		
 		
 		

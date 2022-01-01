@@ -31,6 +31,12 @@ public class CreateContactTest {
 		
 	}
 	
+	@Test
+	
+	public void deleteContact() {
+		System.out.println("contact deleted");
+	}
+	
 
 	}
 

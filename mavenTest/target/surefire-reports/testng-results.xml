@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="56" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="56" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+      <class name="CreateContactTest.ContactTest">
+        <test-method status="PASS" signature="contact()[pri:0, instance:CreateContactTest.ContactTest@59ec2012]" name="contact" duration-ms="5" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method status="PASS" signature="updateContact()[pri:0, instance:CreateContactTest.ContactTest@59ec2012]" name="updateContact" duration-ms="1" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateContact -->
+      </class> <!-- CreateContactTest.ContactTest -->
+      <class name="DemoTest">
+        <test-method status="PASS" signature="createContactTest()[pri:0, instance:DemoTest@1e397ed7]" name="createContactTest" duration-ms="1" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method status="PASS" signature="createOrgTest()[pri:0, instance:DemoTest@1e397ed7]" name="createOrgTest" duration-ms="1" started-at="2022-01-01T13:02:25 IST" finished-at="2022-01-01T13:02:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+      </class> <!-- DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

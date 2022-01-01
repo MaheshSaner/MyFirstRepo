@@ -13,5 +13,6 @@ public class OrgTest {
 	@Test
 	public void updateOrg() {
 		System.out.println("Org has been updated");
+		System.out.println("ddv");
 	}
 }
